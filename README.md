@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DennisAcer
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science and Web Development 
+- 🌱 I’m currently learning SQL 
+- 💞️ I’m looking to expand my knowledge base by learning and working on more projects 
 - 📫 How to reach me ayisidennis2002@gmail.com
 
 <!---
